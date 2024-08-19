@@ -30,3 +30,6 @@ The AutoVM platform is designed to be compatible with default VMware ESXi settin
 ### Do you like to try for free?
 
 To get and set up the system, please visit the installation article.also you can ask your question in the [stack](http://stack.autovm.net).
+
+[how to install - archive](https://web.archive.org/web/20210411093114/https://www.devbackdoor.info/how-to-install-autovm-on-ubuntu-20-4-1-server/)
+[wiki - archive](https://web.archive.org/web/20210512072920/https://wiki.autovm.net/index.php?title=Main_page)
