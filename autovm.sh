@@ -47,7 +47,7 @@ apt-get install php$PHP_VERSION php$PHP_VERSION-dev php$PHP_VERSION-curl php$PHP
 apt update -y
 
 # Install requirements
-apt install -y nginx git unzip php$PHP_VERSION-fpm php$PHP_VERSION-cli php$PHP_VERSION-mysql php$PHP_VERSION-mbstring php$PHP_VERSION-gd php$PHP_VERSION-curl php$PHP_VERSION-zip php$PHP_VERSION-xml mysql-server python3-pip && pip install spur pysphere crypto netaddr
+apt install -y nginx git unzip php$PHP_VERSION-fpm php$PHP_VERSION-cli php$PHP_VERSION-mysql php$PHP_VERSION-mbstring php$PHP_VERSION-gd php$PHP_VERSION-curl php$PHP_VERSION-zip php$PHP_VERSION-xml mysql-server python3-pip && pip install -y spur pysphere crypto netaddr
 
 # Random password
 password=$(openssl rand -base64 16)
